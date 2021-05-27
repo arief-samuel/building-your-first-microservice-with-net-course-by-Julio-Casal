@@ -12,7 +12,7 @@
 - 
 - 
 
-<!-- ### Using httprepl
+### Using httprepl
 
 > Usage: httprepl https://localhost:5001
 - [http-repl](https://docs.microsoft.com/en-us/aspnet/core/web-api/http-repl/?view=aspnetcore-5.0&tabs=windows)
@@ -21,4 +21,4 @@
 ### ActionResult Signature Class
 - Have specific type for the return ex: CreatedAtAction(), 
 ### IActionResult Signature Class
-- Dont really have specific type for the return ex: NoContent() -->
+- Dont really have specific type for the return ex: NoContent()
